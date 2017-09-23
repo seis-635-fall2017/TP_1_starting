@@ -16,7 +16,7 @@ public class Copy
 
 	public Copy(String copyID, String title)
 	{
-		// finish this
+		// finish this ??
 	}
 
 	// generate getters and setters using Eclipse Source menu
